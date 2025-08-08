@@ -1,0 +1,14 @@
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\bin\Debug\net8.0\PatronesDiseno.exe
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\bin\Debug\net8.0\PatronesDiseno.deps.json
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\bin\Debug\net8.0\PatronesDiseno.runtimeconfig.json
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\bin\Debug\net8.0\PatronesDiseno.dll
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\bin\Debug\net8.0\PatronesDiseno.pdb
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.AssemblyInfoInputs.cache
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.AssemblyInfo.cs
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.csproj.CoreCompileInputs.cache
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.dll
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\refint\PatronesDiseno.dll
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.pdb
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\PatronesDiseno.genruntimeconfig.cache
+C:\Users\lordk\source\repos\PatronesDiseno\PatronesDiseno\obj\Debug\net8.0\ref\PatronesDiseno.dll

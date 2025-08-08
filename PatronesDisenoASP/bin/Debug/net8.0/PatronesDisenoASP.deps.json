@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatronesDisenoASP/1.0.0": {
+        "dependencies": {
+          "Herramientas": "1.0.0"
+        },
+        "runtime": {
+          "PatronesDisenoASP.dll": {}
+        }
+      },
+      "Herramientas/1.0.0": {
+        "runtime": {
+          "Herramientas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatronesDisenoASP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Herramientas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
