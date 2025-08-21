@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using PatronesDiseno.Builder;
 using PatronesDiseno.Factory;
 using PatronesDiseno.InyeccionDependencias;
 using PatronesDiseno.Models;
@@ -67,10 +68,19 @@ namespace PatronesDiseno
             //unitOfWork.Save();
             //}
 
-            var context = new Context(new CarStrategy());
-            context.Run();
-            context.Strategy = new MotoStrategy();
-            context.Run();
+            // var context = new Context(new CarStrategy());
+            // context.Run();
+            // context.Strategy = new MotoStrategy();
+            // context.Run();
+
+            var builder = new BebidaPreparadaConcreteBuilder();
+            var barmanDirector = new BarmanDirector(builder);
+            barmanDirector.PrepareDrink();
+
+            var bebida = builder.GetBebidaPreparada();
+
+            Console.WriteLine($"Bebida preparada: {bebida.Result}");
+
         }
     }
 }
