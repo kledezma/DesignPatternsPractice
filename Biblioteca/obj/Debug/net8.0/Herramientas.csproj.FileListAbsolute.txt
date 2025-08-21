@@ -5,6 +5,7 @@ C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramien
 C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramientas.AssemblyInfoInputs.cache
 C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramientas.AssemblyInfo.cs
 C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramientas.sourcelink.json
 C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramientas.dll
 C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\refint\Herramientas.dll
 C:\Users\lordk\source\repos\PatronesDiseno\Biblioteca\obj\Debug\net8.0\Herramientas.pdb

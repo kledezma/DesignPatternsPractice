@@ -18,12 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\lordk\source\repos\PatronesDiseno\PatronesDisenoASP
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/lordk/source/repos/PatronesDiseno/PatronesDisenoASP/Views/Beer/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlclxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lordk/source/repos/PatronesDiseno/PatronesDisenoASP/Views/Beer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lordk/source/repos/PatronesDiseno/PatronesDisenoASP/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lordk/source/repos/PatronesDiseno/PatronesDisenoASP/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lordk/source/repos/PatronesDiseno/PatronesDisenoASP/Views/ProductDetail/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdERldGFpbFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lordk/source/repos/PatronesDiseno/PatronesDisenoASP/Views/Shared/Error.cshtml]

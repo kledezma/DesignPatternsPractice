@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -8,6 +8,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Biblioteca\Herramientas.csproj" />
+    <ProjectReference Include="..\Patrones.Modelos\Patrones.Modelos.csproj" />
+    <ProjectReference Include="..\Patrones.Repositorio\Patrones.Repositorio.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,15 @@
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\bin\Debug\net8.0\Patrones.Modelos.deps.json
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\bin\Debug\net8.0\Patrones.Modelos.runtimeconfig.json
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\bin\Debug\net8.0\Patrones.Modelos.dll
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\bin\Debug\net8.0\Patrones.Modelos.pdb
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.csproj.AssemblyReference.cache
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.AssemblyInfoInputs.cache
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.AssemblyInfo.cs
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.sourcelink.json
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.dll
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\refint\Patrones.Modelos.dll
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.pdb
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\Patrones.Modelos.genruntimeconfig.cache
+C:\Users\lordk\source\repos\PatronesDiseno\Patrones.Modelos\obj\Debug\net8.0\ref\Patrones.Modelos.dll
